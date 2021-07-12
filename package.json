@@ -26,6 +26,6 @@
     "lint-staged": "^11.0.0"
   },
   "lint-staged": {
-    "*.js": "echo test"
+    "*.js": "eslint --cache --fix"
   }
 }
