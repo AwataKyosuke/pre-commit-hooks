@@ -1,1 +1,2 @@
-const hoge = 'fuga';
+// const hoge = 'hoge';
+// const fuga = 'fuga';
